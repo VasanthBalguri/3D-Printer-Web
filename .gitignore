@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+3d-printer-web-frontend/node_modules
+3d-printer-web-frontend/.pnp
+3d-printer-web-frontend/.pnp.js
+
+# testing
+3d-printer-web-frontend/coverage
+
+# production
+3d-printer-web-frontend/build
+
+# misc
+3d-printer-web-frontend/.DS_Store
+3d-printer-web-frontend/.env.local
+3d-printer-web-frontend/.env.development.local
+3d-printer-web-frontend/.env.test.local
+3d-printer-web-frontend/.env.production.local
+
+3d-printer-web-frontend/npm-debug.log*
+3d-printer-web-frontend/yarn-debug.log*
+3d-printer-web-frontend/yarn-error.log*
+
+3d-printer-web-backend/bin
+3d-printer-web-backend/node_modules
+
